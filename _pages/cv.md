@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Political Science and Social Data Analytics, Expected 2025
-* M.A. in Political Science, 2022
-* M.A. in Politics with Quantitative Methods (Equivalent to B.A.), 2020
+* Ph.D. in Political Science and Social Data Analytics, The Pennsylvania State University, Expected 2025
+* M.A. in Political Science, The Pennsylvania State University, 2022
+* M.A. in Politics with Quantitative Methods (Equivalent to B.A.), The University of Edinburgh, 2020
 
 Research Experience
 ======
