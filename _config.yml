@@ -84,7 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Candidate at Penn State"
   location         : "State College, PA"
-  employer         :
+  penn             : "https://polisci.la.psu.edu/people/nsf5109/"
+  employer         : 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  "nsf5109@psu.edu"
