@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Political Science and Social Data Analytics, Expected 2025
+* Ph.D. in Political Science and Social Data Analytics, Expected 2025  
     The Pennsylvania State University
-* M.A. in Political Science, 2022
+* M.A. in Political Science, 2022  
     The Pennsylvania State University
-* M.A. in Politics with Quantitative Methods (Equivalent to B.A.), 2020
+* M.A. in Politics with Quantitative Methods (Equivalent to B.A.), 2020  
     The University of Edinburgh
 
 Research Experience
@@ -45,13 +45,12 @@ Research Experience
 Teaching Experience
 ======
 ### The Pennsylvania State University
-* Spring 2021: Teaching Assistant
+* Spring 2021: Teaching Assistant for Quantitative Political Analysis
   * Duties included: Provided instruction to an undergraduate class, developed material for lectures and quizzes, graded assignments and quizzes, maintained regular office hours
   * Supervisor: Suzanna Linn
 
 ### The University of Edinburgh
-* 2019-2020: Data Coach
-  * Students as Change Agents
+* 2019-2020: Data Coach for Students as Change Agents
   * Duties included: Providing instruction on data collection and usage to students taking part in a university organized thinktank
   
 Skills
