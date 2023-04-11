@@ -55,16 +55,16 @@ Spring 2021: Teaching Assistant for Quantitative Political Analysis
   
 Awards
 ======
-**Carsey Award**
-&nbsp;State Politics and Policy Conference, 2022
-**Oustanding M.A. Thesis Award**
-&nbsp;The Pennsylvania State University, 2022
-**External Funding Incentive Award**
-&nbsp;The Pennsylvania State University, 2021
+ **Carsey Award**
+ &nbsp;State Politics and Policy Conference, 2022
+ **Oustanding M.A. Thesis Award**
+ &nbsp;The Pennsylvania State University, 2022
+ **External Funding Incentive Award**
+ &nbsp;The Pennsylvania State University, 2021
 
 Skills
 ======
-* R
-* STATA
-* Python
+ R
+ STATA
+ Python
 
