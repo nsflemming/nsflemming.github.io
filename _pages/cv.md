@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 <p>**Ph.D. in Political Science and Social Data Analytics**, Expected 2025<br>  
-    The Pennsylvania State University</p>
+  &nbsp;The Pennsylvania State University</p>
 <p>**M.A. in Political Science**, 2022<br>  
-    The Pennsylvania State University</p>
+  &nbsp;The Pennsylvania State University</p>
 <p>**M.A. in Politics with Quantitative Methods (Equivalent to B.A.)**, 2020<br>  
-    The University of Edinburgh</p>
+  &nbsp;The University of Edinburgh</p>
 
 Research Experience
 ======
