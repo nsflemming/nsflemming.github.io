@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-Ph.D. in Political Science and Social Data Analytics, Expected 2025  
-    The Pennsylvania State University
-M.A. in Political Science, 2022  
-    The Pennsylvania State University
-M.A. in Politics with Quantitative Methods (Equivalent to B.A.), 2020  
+**Ph.D. in Political Science and Social Data Analytics**, Expected 2025<br>  
+    The Pennsylvania State University<br>
+**M.A. in Political Science**, 2022<br>  
+    The Pennsylvania State University<br>
+**M.A. in Politics with Quantitative Methods (Equivalent to B.A.)**, 2020<br>  
     The University of Edinburgh
 
 Research Experience
@@ -55,7 +55,7 @@ Spring 2021: Teaching Assistant for Quantitative Political Analysis
   
 Awards
 ======
- **Carsey Award**
+ **Carsey Award**<br>
  &nbsp;State Politics and Policy Conference, 2022<br>
  **Oustanding M.A. Thesis Award**<br>
  &nbsp;The Pennsylvania State University, 2022<br>
