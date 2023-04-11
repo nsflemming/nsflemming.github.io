@@ -19,6 +19,7 @@ Education
   &nbsp;The University of Edinburgh
 
 Research Experience
+======
 ### The Pennsylvania State University
 Fall 2021-Ongoing: Research Assistant
   * Duties included: Training and managing undergraduates collecting research data, researching state voter registration and voter roll maintenance procedures
@@ -42,6 +43,7 @@ Summer 2018: Research Assistant
   * Supervisor: Alexander Janus
 
 Teaching Experience
+======
 ### The Pennsylvania State University
 Spring 2021: Teaching Assistant for Quantitative Political Analysis
   * Duties included: Provided instruction to an undergraduate class, developed material for lectures and quizzes, graded assignments and quizzes, maintained regular office hours
