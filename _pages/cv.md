@@ -22,12 +22,12 @@ Research Experience
 ======
 ### The Pennsylvania State University
 Fall 2021-Ongoing: Research Assistant
-  - Duties included: Training and managing undergraduates collecting research data, researching state voter registration and voter roll maintenance procedures
-  - Supervisor: Lee Ann Banaszak
+  * Duties included: Training and managing undergraduates collecting research data, researching state voter registration and voter roll maintenance procedures
+  * Supervisor: Lee Ann Banaszak
 
 Summer 2022: Research Assistant
-  + Duties included: Cleaning and reformating into a panel format to track interstate migration
-  + Supervisor: Christopher Witko
+  * Duties included: Cleaning and reformating into a panel format to track interstate migration
+  * Supervisor: Christopher Witko
 
 Summer 2021: Research Assistant
   * Duties included: Collecting and coding sociodemographic information for State Supreme Court and Court of Appeals Judges
