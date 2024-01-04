@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<!---
 Education
 ======
 **Ph.D. in Political Science and Social Data Analytics**, Expected 2025   
@@ -83,5 +83,5 @@ Skills
  R<br>
  STATA<br>
  Python<br>
-
+--->
 <embed src="{{ site.baseurl }}/files/Nathaniel_Flemming_Resume_oct_2023.pdf" width="600" height="700" type='application/pdf'> 
