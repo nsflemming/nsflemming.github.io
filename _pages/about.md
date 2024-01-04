@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Nathaniel Flemming is a Ph.D. student in Political Science and Social Data Analytics. Before attending PSU he received a B.A. in Politics with Quantitative Methods from the University of Edinburgh in 2020. His current research focuses on the effects of metropolitan fragmentation on inequities in public service provision.
+I am a Ph.D. candidate in Political Science and Social Data Analytics. Before attending PSU I received a B.A. in Politics with Quantitative Methods from the University of Edinburgh in 2020. My research uses a variety of quantitative techniques to investigate the relationship between metropolitan fragmentation and inequities in public service provision. In my dissertation I examine this topic from three angles, local government spending on public services, satisfaction with services, and the spatial accessibility of services.
+
+![](/images/PA_lib_access_image.png)
