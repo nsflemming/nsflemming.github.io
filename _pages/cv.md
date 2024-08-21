@@ -84,4 +84,4 @@ Skills
  STATA<br>
  Python<br>
 --->
-<embed src="{{ site.baseurl }}/files/Nathaniel_Flemming_Resume_oct_2023.pdf" width="600" height="700" type='application/pdf'> 
+<embed src="{{ site.baseurl }}/files/Nathaniel_Flemming_Resume_Aug_2024.pdf" width="600" height="700" type='application/pdf'> 
